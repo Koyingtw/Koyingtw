@@ -2,16 +2,42 @@
 
 ## 程式競賽
 平常會打打 Codeforces，有時候會去打 AtCoder，各種 OJ 的個人主頁如下，想討論一些東西也歡迎來找我，但是我很菜所以可能會被你電爛
+
+### 常用的 Online Judge
 - [Codeforces](https://codeforces.com/profile/Koying)
 - [AtCoder](https://atcoder.jp/users/Koying)
 - [CSES](https://cses.fi/user/57693)
 
+### 競賽經歷
+- 2023 資訊奧林匹亞初選（2023 TOIP） #19
+- 2021、2022 全國資訊學科能力競賽（NHSPC）入選
+    - 模擬賽：2022 #17，2023 #13
+- 2022 網際網路程式設計大賽決賽（NPSC） #15、佳作
+- 2021、2022 少年圖靈計畫（YTP）決賽入選
+    - 2022 進入專題實作
+- 2022 成大高中生邀請賽（HSPC） #9、佳作
+- 2021 高一生排名賽 #8
+- 2021 清大競程年度個人賽 第 16 名
+- 2021 ISSC 青年程式競賽 佳作
+
 ## 社群貢獻
+
+### 職位
 致力於提升臺灣中學生學習程式的環境，目前擔任以下職務：
 - [CISC 中學資訊討論群](https://discord.gg/mc9CgJvjZz) 創辦人
 - [NHDK 四校聯合初學者程式設計練習賽](https://www.facebook.com/profile.php?id=100064076583372) 總召
-- [SCIST 南臺灣學生資訊社群](https://www.facebook.com/scist.tw) 演算法總召
-除此之外，今年暑假我們召集了四所學校的選手，合作舉辦了一個[暑期培訓營](https://github.com/HHSH-CYSH-WGSH-HSNU-Summer-Camp/)，希望能夠將自身的經驗分享給更多人。如果你也想為提升環境以及創造資源盡一份力的話，歡迎加入我們的行列！
+- [SCIST 南臺灣學生資訊社群](https://www.facebook.com/scist.tw) 第三屆演算法總召、助教
+- 2023 南區資訊之芽算法班講師
+
+### 其他經歷
+- 2023 SCIST x NHDK x 南 11 校聯合寒訓 副召、講師
+- 2022 [南北四校聯合暑期培訓營](https://github.com/HHSH-CYSH-WGSH-HSNU-Summer-Camp/) 總召、講師
+- 2022 SITCON 學生計算機年會 一般議程講者
+- 2021 SITCON 學生計算機年會 開放式議程講者
+- 嘉義高中資訊讀書會 創辦、講師
+- 第二屆 SCIST 南台灣學生資訊社群 演算法助教
+- 第二、三屆新化高中程式設計營 助教
+- 經驗分享講座：南 11 校寒訓、新北高中資訊社
 
 ## 聯絡方式
 - Discord：Koying#1134
