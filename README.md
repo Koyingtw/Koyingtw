@@ -28,16 +28,16 @@ Sunday                   246 commits         ███████░░░░�
 🕑︎ Time Zone: Asia/Taipei
 
 💬 Programming Languages: 
-Markdown                 1 hr 3 mins         █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  1 hr 3 mins         █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-Koyingtw.github.io       1 hr 3 mins         █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      1 hr 3 mins         █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in TeX** 
@@ -53,7 +53,7 @@ Verilog                  1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 30/01/2025 00:56:34 UTC
+ Last Updated on 31/01/2025 00:57:40 UTC
 <!--END_SECTION:waka-->
 
 
