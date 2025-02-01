@@ -28,16 +28,17 @@ Sunday                   246 commits         ███████░░░░�
 🕑︎ Time Zone: Asia/Taipei
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Bash                     25 mins             █████████████████████████   99.89 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  25 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+alphafold3               25 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Linux                    25 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TeX** 
@@ -53,7 +54,7 @@ Verilog                  1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 31/01/2025 00:57:40 UTC
+ Last Updated on 01/02/2025 01:00:41 UTC
 <!--END_SECTION:waka-->
 
 
