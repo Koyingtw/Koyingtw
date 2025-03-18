@@ -81,6 +81,9 @@ Verilog                  1 repo              █░░░░░░░░░░�
 - 2021 清大競程年度個人賽 第 16 名
 - 2021 ISSC 青年程式競賽 佳作
 
+### 黑客松
+- 2025 TSMC CareerHack Hackathon #4
+
 ## 社群貢獻
 ### 現任
 - [CISC 中學資訊討論群](https://discord.gg/mc9CgJvjZz) 創辦人、管理員
