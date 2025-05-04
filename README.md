@@ -1,4 +1,6 @@
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C461%20hrs%206%20mins-blue)
+
 **I'm a Night 🦉** 
 
 ```text
@@ -60,7 +62,7 @@ Dart                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 03/05/2025 01:04:14 UTC
+ Last Updated on 04/05/2025 01:12:17 UTC
 <!--END_SECTION:waka-->
 
 
