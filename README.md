@@ -28,17 +28,16 @@ Sunday                   256 commits         ██████░░░░░�
 🕑︎ Time Zone: Asia/Taipei
 
 💬 Programming Languages: 
-C++                      6 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  6 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-PP                       4 mins              █████████████████░░░░░░░░   66.60 % 
-Koyingtw.github.io       2 mins              ████████░░░░░░░░░░░░░░░░░   33.40 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      6 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Python** 
@@ -54,7 +53,7 @@ Dart                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 23/06/2025 01:13:48 UTC
+ Last Updated on 24/06/2025 01:10:08 UTC
 <!--END_SECTION:waka-->
 
 
