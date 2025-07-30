@@ -28,18 +28,16 @@ Sunday                   268 commits         ██████░░░░░�
 🕑︎ Time Zone: Asia/Taipei
 
 💬 Programming Languages: 
-Other                    7 mins              ███████████░░░░░░░░░░░░░░   43.44 % 
-Text                     5 mins              ████████░░░░░░░░░░░░░░░░░   32.07 % 
-Bash                     4 mins              ██████░░░░░░░░░░░░░░░░░░░   24.49 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  18 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-koying0523               18 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    18 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Python** 
@@ -55,7 +53,7 @@ Dart                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 29/07/2025 01:22:45 UTC
+ Last Updated on 30/07/2025 01:15:48 UTC
 <!--END_SECTION:waka-->
 
 
