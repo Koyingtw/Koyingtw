@@ -18,10 +18,18 @@ Dart                     1 repo              █░░░░░░░░░░�
 
 嗨，我是 Koying，透過特殊選才錄取並就讀清華大學資訊工程學系（特選結果可以[這篇文章](https://koyingtw.github.io/2022/10/31/%E7%89%B9%E9%81%B8%E5%BF%83%E5%BE%97/)）。高中期間我是一名競技程式選手，不過為了讓臺灣的學生能夠有更好的程式學習環境，我投入了學生資訊社群的貢獻，希望能夠透過自己的力量創造一些資源，讓環境更好。上大學後有持續參加 ICPC，目前則是逐漸轉往學習超算（HPC）領域的東西。
 
+## 工作
+### 現任
+- 國立清華大學平行程式助教
+
+### 曾任
+- Skymizer Summer Intern
+
 ## 競賽經歷
 ### 高效能計算 (High Performance Computing)
 - 2024 HPC-AI APAC Third-Place
 - ISC 2024 Student Cluster Competition Online #6
+- ASC 2025 Student Cluster Challenge First Prize
 
 ### 程式競賽
 - 2023 2023 ICPC Asia Taiwan Online Programming Contest (TOPC) #16 (8/863, Gold Medal，取得 2023 ICPC Asia Taoyuan Regional Contest 資格)
