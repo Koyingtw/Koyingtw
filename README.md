@@ -28,17 +28,16 @@ Sunday                   305 commits         ██████░░░░░�
 🕑︎ Time Zone: Asia/Taipei
 
 💬 Programming Languages: 
-Docker                   11 mins             ████████████████████░░░░░   78.35 % 
-C                        3 mins              █████░░░░░░░░░░░░░░░░░░░░   21.65 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  15 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-hw2                      15 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      15 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in C++** 
@@ -54,7 +53,7 @@ Dart                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 07/11/2025 01:07:36 UTC
+ Last Updated on 08/11/2025 01:04:31 UTC
 <!--END_SECTION:waka-->
 
 
