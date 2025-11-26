@@ -28,17 +28,16 @@ Sunday                   305 commits         ██████░░░░░�
 🕑︎ Time Zone: Asia/Taipei
 
 💬 Programming Languages: 
-Markdown                 2 mins              ████████████████████████░   97.69 % 
-C                        0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.31 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  2 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-os25_team34_xv6          2 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      2 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Python** 
@@ -54,7 +53,7 @@ Dart                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 25/11/2025 01:08:18 UTC
+ Last Updated on 26/11/2025 01:08:57 UTC
 <!--END_SECTION:waka-->
 
 
