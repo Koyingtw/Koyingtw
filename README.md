@@ -69,12 +69,15 @@ Dart                     1 repo              █░░░░░░░░░░�
 
 ### 曾任
 - Skymizer Summer Intern
+- 國立清華大學計算機程式設計助教
 
 ## 競賽經歷
 ### 高效能計算 (High Performance Computing)
+- SC25 IndySCC #3
+- ASC 2025 Student Cluster Challenge First Prize
 - 2024 HPC-AI APAC Third-Place
 - ISC 2024 Student Cluster Competition Online #6
-- ASC 2025 Student Cluster Challenge First Prize
+
 
 ### 程式競賽
 - 2023 2023 ICPC Asia Taiwan Online Programming Contest (TOPC) #16 (8/863, Gold Medal，取得 2023 ICPC Asia Taoyuan Regional Contest 資格)
