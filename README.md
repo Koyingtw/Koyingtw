@@ -1,5 +1,5 @@
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C566%20hrs%2056%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C566%20hrs%2056%20mins-blue?style=flat)
 
 **I'm an Early 🐤** 
 
@@ -53,7 +53,7 @@ Dart                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 05/01/2026 01:20:32 UTC
+ Last Updated on 06/01/2026 01:14:38 UTC
 <!--END_SECTION:waka-->
 
 
