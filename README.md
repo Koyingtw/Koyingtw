@@ -28,16 +28,18 @@ Sunday                   311 commits         ██████░░░░░�
 🕑︎ Time Zone: Asia/Taipei
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+C                        1 min               ████████████████████████░   96.52 % 
+Other                    0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   03.48 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  1 min               █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+OpenFOAM-12              1 min               ████████████████████████░   96.52 % 
+koying0523               0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   03.48 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Linux                    1 min               █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -53,7 +55,7 @@ TypeScript               1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 23/02/2026 01:30:24 UTC
+ Last Updated on 24/02/2026 01:29:00 UTC
 <!--END_SECTION:waka-->
 
 
