@@ -2,21 +2,21 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                263 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.58 % 
-🌆 Daytime                876 commits         ███████████░░░░░░░░░░░░░░   45.22 % 
-🌃 Evening                487 commits         ██████░░░░░░░░░░░░░░░░░░░   25.14 % 
-🌙 Night                  311 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.06 % 
+🌞 Morning                268 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.63 % 
+🌆 Daytime                878 commits         ███████████░░░░░░░░░░░░░░   44.66 % 
+🌃 Evening                494 commits         ██████░░░░░░░░░░░░░░░░░░░   25.13 % 
+🌙 Night                  326 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.58 % 
 ```
 📅 **I'm Most Productive on Saturday** 
 
 ```text
-Monday                   231 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.93 % 
-Tuesday                  203 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.48 % 
-Wednesday                190 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.81 % 
-Thursday                 157 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.11 % 
-Friday                   192 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.91 % 
-Saturday                 554 commits         ███████░░░░░░░░░░░░░░░░░░   28.60 % 
-Sunday                   410 commits         █████░░░░░░░░░░░░░░░░░░░░   21.17 % 
+Monday                   231 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.75 % 
+Tuesday                  203 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.33 % 
+Wednesday                209 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.63 % 
+Thursday                 158 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.04 % 
+Friday                   195 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.92 % 
+Saturday                 560 commits         ███████░░░░░░░░░░░░░░░░░░   28.48 % 
+Sunday                   410 commits         █████░░░░░░░░░░░░░░░░░░░░   20.85 % 
 ```
 
 
@@ -26,25 +26,25 @@ Sunday                   410 commits         █████░░░░░░�
 🕑︎ Time Zone: Asia/Taipei
 
 💬 Programming Languages: 
-C++                      3 hrs 51 mins       █████████████████████░░░░   83.05 % 
-C                        21 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.56 % 
-Pawn                     16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.92 % 
-Other                    5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.99 % 
-Markdown                 4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.48 % 
+C++                      4 hrs 54 mins       ████████████████████░░░░░   81.19 % 
+C                        21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.81 % 
+Markdown                 17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.83 % 
+Pawn                     16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.55 % 
+Bash                     6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.85 % 
 
 🔥 Editors: 
-VS Code                  4 hrs 38 mins       █████████████████████████   100.00 % 
+VS Code                  6 hrs 2 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-litert-mcu               3 hrs 17 mins       ██████████████████░░░░░░░   70.89 % 
-litert-mcu-examples      50 mins             █████░░░░░░░░░░░░░░░░░░░░   18.09 % 
-kchen                    21 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.65 % 
-fsfm-private             5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.90 % 
-HiPAC26_Mock_PINNs       4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.48 % 
+litert-mcu               4 hrs 8 mins        █████████████████░░░░░░░░   68.54 % 
+litert-mcu-examples      1 hr 23 mins        ██████░░░░░░░░░░░░░░░░░░░   22.99 % 
+kchen                    21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.88 % 
+fsfm-private             5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.46 % 
+HiPAC26_Mock_PINNs       4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.13 % 
 
 💻 Operating System: 
-Linux                    4 hrs 34 mins       █████████████████████████   98.52 % 
-Mac                      4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.48 % 
+Linux                    5 hrs 58 mins       █████████████████████████   98.87 % 
+Mac                      4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.13 % 
 ```
 
 **I Mostly Code in Python** 
@@ -60,7 +60,7 @@ Fortran                  1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 24/07/2026 02:05:42 UTC
+ Last Updated on 25/07/2026 02:04:53 UTC
 <!--END_SECTION:waka-->
 
 
