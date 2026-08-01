@@ -1,26 +1,26 @@
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C589%20hrs%204%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C591%20hrs%204%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-27%20hrs%2039%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-27%20hrs%2047%20mins-blue?style=flat)
 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                271 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.55 % 
-🌆 Daytime                879 commits         ███████████░░░░░░░░░░░░░░   43.95 % 
-🌃 Evening                510 commits         ██████░░░░░░░░░░░░░░░░░░░   25.50 % 
-🌙 Night                  340 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.00 % 
+🌞 Morning                271 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.51 % 
+🌆 Daytime                881 commits         ███████████░░░░░░░░░░░░░░   43.92 % 
+🌃 Evening                510 commits         ██████░░░░░░░░░░░░░░░░░░░   25.42 % 
+🌙 Night                  344 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.15 % 
 ```
 📅 **I'm Most Productive on Saturday** 
 
 ```text
-Monday                   231 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.55 % 
-Tuesday                  206 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.30 % 
-Wednesday                220 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.00 % 
-Thursday                 166 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.30 % 
-Friday                   207 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.35 % 
-Saturday                 560 commits         ███████░░░░░░░░░░░░░░░░░░   28.00 % 
-Sunday                   410 commits         █████░░░░░░░░░░░░░░░░░░░░   20.50 % 
+Monday                   231 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.52 % 
+Tuesday                  206 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.27 % 
+Wednesday                220 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.97 % 
+Thursday                 166 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.28 % 
+Friday                   209 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.42 % 
+Saturday                 564 commits         ███████░░░░░░░░░░░░░░░░░░   28.12 % 
+Sunday                   410 commits         █████░░░░░░░░░░░░░░░░░░░░   20.44 % 
 ```
 
 
@@ -30,48 +30,49 @@ Sunday                   410 commits         █████░░░░░░�
 🕑︎ Time Zone: Asia/Taipei
 
 💬 Programming Languages: 
-C++                      8 hrs 11 mins       █████████████████████░░░░   85.85 % 
-Markdown                 43 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.65 % 
-Other                    16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.84 % 
-Bash                     12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.20 % 
-SQL                      5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.93 % 
+C++                      9 hrs 25 mins       ███████████████████░░░░░░   76.02 % 
+Other                    1 hr                ██░░░░░░░░░░░░░░░░░░░░░░░   08.18 % 
+Markdown                 38 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.18 % 
+Bash                     23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.12 % 
+Linker Script            20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.79 % 
 
 🔥 Editors: 
-VS Code                  9 hrs 19 mins       ████████████████████████░   97.74 % 
-Claude Code              7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.30 % 
-Antigravity CLI          5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.96 % 
+VS Code                  12 hrs 3 mins       ████████████████████████░   97.37 % 
+Claude Code              14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.89 % 
+Antigravity CLI          5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.74 % 
 
 🐱‍💻 Projects: 
-litert-mcu               7 hrs 11 mins       ███████████████████░░░░░░   75.40 % 
-litert-mcu-examples      2 hrs 13 mins       ██████░░░░░░░░░░░░░░░░░░░   23.30 % 
-foodsaver-backend        6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.17 % 
-foodsaver-dashboard      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 % 
+litert-mcu               6 hrs 40 mins       █████████████░░░░░░░░░░░░   53.86 % 
+litert-mcu-examples      3 hrs 51 mins       ████████░░░░░░░░░░░░░░░░░   31.08 % 
+ml_model_examples        48 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.54 % 
+fsfm-private             35 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.80 % 
+foodsaver-backend        8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.12 % 
 
 💻 Operating System: 
-Linux                    9 hrs 25 mins       █████████████████████████   98.70 % 
-Mac                      7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.30 % 
+Linux                    12 hrs 9 mins       █████████████████████████   98.11 % 
+Mac                      14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.89 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 57 mins (10.08%)
+⏱ AI Coding Time: 1 hr 4 mins (8.65%)
 
-✍️ 539 lines written by AI, 727 lines written by hand (42.58% AI-written)
+✍️ 710 lines written by AI, 1,785 lines written by hand (28.46% AI-written)
 
-🔤 5,519,274 Input Tokens, 24,605 Output Tokens
+🔤 11,034,254 Input Tokens, 33,767 Output Tokens
 
-💵 $28.21 Estimated AI Cost This Week
+💵 $56.02 Estimated AI Cost This Week
 
-🧠 2 AI Sessions, 17 AI Prompts
+🧠 3 AI Sessions, 18 AI Prompts
 
-Opus                     539 lines           █████████████████████████   100.00 % 
+Opus                     710 lines           █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-⚖️ Balanced with AI — 42.58% of written lines came from AI
+🧑‍💻 Mostly Hands-On — 28.46% of written lines came from AI
 📝 Concise Prompter — average 62 characters per prompt
-🔁 Iterative Prompter — average 8 prompts per session
-🔍 Hands-On Reviewer — 63.31% of changed lines were hand-edited
+🔁 Iterative Prompter — average 6 prompts per session
+🔍 Hands-On Reviewer — 73.51% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -87,7 +88,7 @@ Fortran                  1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 31/07/2026 02:11:11 UTC
+ Last Updated on 01/08/2026 02:11:35 UTC
 <!--END_SECTION:waka-->
 
 
