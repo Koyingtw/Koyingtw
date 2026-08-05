@@ -1,5 +1,5 @@
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C596%20hrs%2045%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C600%20hrs%2018%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-29%20hrs%2033%20mins-blue?style=flat)
 
@@ -30,35 +30,35 @@ Sunday                   423 commits         █████░░░░░░�
 🕑︎ Time Zone: Asia/Taipei
 
 💬 Programming Languages: 
-C++                      10 hrs 53 mins      ████████████████░░░░░░░░░   63.39 % 
-Markdown                 1 hr 11 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.92 % 
-Other                    1 hr                █░░░░░░░░░░░░░░░░░░░░░░░░   05.91 % 
-TypeScript               55 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.37 % 
-Bash                     51 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.00 % 
+C++                      8 hrs 47 mins       ███████████████░░░░░░░░░░   58.35 % 
+Markdown                 1 hr 13 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.11 % 
+Other                    1 hr                ██░░░░░░░░░░░░░░░░░░░░░░░   06.74 % 
+TypeScript               55 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.12 % 
+Bash                     48 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.32 % 
 
 🔥 Editors: 
-VS Code                  15 hrs 22 mins      ██████████████████████░░░   89.52 % 
-Claude Code              1 hr 42 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.94 % 
-Antigravity CLI          5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.53 % 
+VS Code                  13 hrs 16 mins      ██████████████████████░░░   88.06 % 
+Claude Code              1 hr 42 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.33 % 
+Antigravity CLI          5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.61 % 
 
 🐱‍💻 Projects: 
-litert-mcu-examples      7 hrs 6 mins        ██████████░░░░░░░░░░░░░░░   41.43 % 
-litert-mcu               5 hrs 54 mins       █████████░░░░░░░░░░░░░░░░   34.44 % 
-Code-Arena               1 hr 45 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.26 % 
-ml_model_examples        48 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.71 % 
-fsfm-private             36 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.51 % 
+litert-mcu-examples      7 hrs 14 mins       ████████████░░░░░░░░░░░░░   48.00 % 
+litert-mcu               3 hrs 41 mins       ██████░░░░░░░░░░░░░░░░░░░   24.50 % 
+Code-Arena               1 hr 45 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.69 % 
+ml_model_examples        48 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.37 % 
+fsfm-private             36 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.00 % 
 
 💻 Operating System: 
-Linux                    14 hrs 45 mins      █████████████████████░░░░   85.95 % 
-Mac                      2 hrs 24 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.05 % 
+Linux                    12 hrs 39 mins      █████████████████████░░░░   83.99 % 
+Mac                      2 hrs 24 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.01 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 2 hrs 43 mins (15.89%)
+⏱ AI Coding Time: 2 hrs 43 mins (18.11%)
 
-✍️ 1,203 lines written by AI, 17,364 lines written by hand (6.48% AI-written)
+✍️ 1,203 lines written by AI, 17,245 lines written by hand (6.52% AI-written)
 
 🔤 99,801,766 Input Tokens, 187,067 Output Tokens
 
@@ -71,26 +71,26 @@ Sonnet                   278 lines           ██████░░░░░�
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 6.48% of written lines came from AI
+🧑‍💻 Mostly Hands-On — 6.52% of written lines came from AI
 📝 Concise Prompter — average 248 characters per prompt
 🔁 Iterative Prompter — average 4 prompts per session
-🔍 Hands-On Reviewer — 96.47% of changed lines were hand-edited
+🔍 Hands-On Reviewer — 96.45% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
 
 ```text
-Python                   13 repos            █████░░░░░░░░░░░░░░░░░░░░   21.31 % 
-C                        3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.92 % 
-Vue                      2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.28 % 
-TypeScript               2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.28 % 
-Fortran                  1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.64 % 
+Python                   13 repos            █████░░░░░░░░░░░░░░░░░░░░   20.97 % 
+C                        3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.84 % 
+Fortran                  2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.23 % 
+Vue                      2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.23 % 
+TypeScript               2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.23 % 
 ```
 
 
 
 
- Last Updated on 04/08/2026 01:56:49 UTC
+ Last Updated on 05/08/2026 01:56:47 UTC
 <!--END_SECTION:waka-->
 
 
