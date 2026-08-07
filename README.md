@@ -96,6 +96,7 @@ TypeScript               2 repos             █░░░░░░░░░░�
 
 ## 工作
 ### 現任
+- SiFive Software Intern
 - 國立清華大學平行程式助教
 
 ### 曾任
@@ -104,6 +105,7 @@ TypeScript               2 repos             █░░░░░░░░░░�
 
 ## 競賽經歷
 ### 高效能計算 (High Performance Computing)
+- ISC26 Highest Linpack
 - SC25 IndySCC #3
 - ASC 2025 Student Cluster Challenge First Prize
 - 2024 HPC-AI APAC Third-Place
