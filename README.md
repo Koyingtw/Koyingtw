@@ -30,52 +30,48 @@ Sunday                   423 commits         █████░░░░░░�
 🕑︎ Time Zone: Asia/Taipei
 
 💬 Programming Languages: 
-C++                      4 hrs 37 mins       ██████████████░░░░░░░░░░░   54.55 % 
-Markdown                 1 hr 58 mins        ██████░░░░░░░░░░░░░░░░░░░   23.29 % 
-Bash                     47 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.35 % 
-Python                   36 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.14 % 
-CMake                    13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.62 % 
+C++                      4 hrs 23 mins       ██████████████░░░░░░░░░░░   54.58 % 
+Markdown                 1 hr 57 mins        ██████░░░░░░░░░░░░░░░░░░░   24.27 % 
+Bash                     47 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.76 % 
+Python                   26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.44 % 
+CMake                    13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.76 % 
 
 🔥 Editors: 
-VS Code                  7 hrs 12 mins       █████████████████████░░░░   85.13 % 
-Opencode Cli             1 hr 6 mins         ███░░░░░░░░░░░░░░░░░░░░░░   13.02 % 
-Claude Code              9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.85 % 
+VS Code                  6 hrs 57 mins       ██████████████████████░░░   86.31 % 
+Opencode Cli             1 hr 6 mins         ███░░░░░░░░░░░░░░░░░░░░░░   13.69 % 
 
 🐱‍💻 Projects: 
-litert-mcu-examples      6 hrs 6 mins        ██████████████████░░░░░░░   72.06 % 
-litert-mcu               1 hr 50 mins        █████░░░░░░░░░░░░░░░░░░░░   21.77 % 
-SOAP-Bench               25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.92 % 
-kchen                    5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.09 % 
-fsfm-private             0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 % 
+litert-mcu-examples      6 hrs 6 mins        ███████████████████░░░░░░   75.79 % 
+litert-mcu               1 hr 50 mins        ██████░░░░░░░░░░░░░░░░░░░   22.90 % 
+kchen                    5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.14 % 
+fsfm-private             0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 % 
 
 💻 Operating System: 
-Linux                    8 hrs 3 mins        ████████████████████████░   95.08 % 
-Mac                      25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.92 % 
+Linux                    8 hrs 3 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 2 hrs 16 mins (26.82%)
+⏱ AI Coding Time: 1 hr 51 mins (23.14%)
 
-✍️ 4,170 lines written by AI, 15,763 lines written by hand (20.92% AI-written)
+✍️ 3,614 lines written by AI, 15,757 lines written by hand (18.66% AI-written)
 
-🔤 3,085,051 Input Tokens, 127,356 Output Tokens
+🔤 2,025,601 Input Tokens, 100,682 Output Tokens
 
-💵 $7.40 Estimated AI Cost This Week
+💵 $5.23 Estimated AI Cost This Week
 
-🧠 8 AI Sessions, 61 AI Prompts
+🧠 4 AI Sessions, 51 AI Prompts
 
-GPT                      4,417 lines         ██████████████████████░░░   88.82 % 
-Sonnet                   556 lines           ███░░░░░░░░░░░░░░░░░░░░░░   11.18 % 
+GPT                      4,417 lines         █████████████████████████   100.00 % 
 Opencode-Cli             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Sonnet                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 20.92% of written lines came from AI
-📄 Detailed Prompter — average 813 characters per prompt
-🔁 Iterative Prompter — average 8 prompts per session
-🔍 Hands-On Reviewer — 86.31% of changed lines were hand-edited
+🧑‍💻 Mostly Hands-On — 18.66% of written lines came from AI
+📄 Detailed Prompter — average 770 characters per prompt
+🔁 Iterative Prompter — average 13 prompts per session
+🔍 Hands-On Reviewer — 87.65% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -91,7 +87,7 @@ TypeScript               2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 09/08/2026 01:13:13 UTC
+ Last Updated on 10/08/2026 01:15:32 UTC
 <!--END_SECTION:waka-->
 
 
