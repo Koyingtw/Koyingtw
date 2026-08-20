@@ -1,7 +1,7 @@
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C610%20hrs%2047%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C612%20hrs%2030%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-37%20hrs%2011%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-38%20hrs%2055%20mins-blue?style=flat)
 
 **I'm an Early 🐤** 
 
@@ -30,46 +30,46 @@ Sunday                   463 commits         █████░░░░░░�
 🕑︎ Time Zone: Asia/Taipei
 
 💬 Programming Languages: 
-C++                      3 hrs 31 mins       ████████████░░░░░░░░░░░░░   46.33 % 
-Other                    1 hr 44 mins        ██████░░░░░░░░░░░░░░░░░░░   22.89 % 
-Markdown                 1 hr 11 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.64 % 
-Bash                     51 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.19 % 
-CMake                    12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.81 % 
+C++                      2 hrs 48 mins       ███████████░░░░░░░░░░░░░░   44.59 % 
+Other                    1 hr 42 mins        ███████░░░░░░░░░░░░░░░░░░   27.07 % 
+Markdown                 55 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.79 % 
+Bash                     34 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.22 % 
+CMake                    11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.12 % 
 
 🔥 Editors: 
-Opencode Cli             5 hrs               ████████████████░░░░░░░░░   65.82 % 
-VS Code                  2 hrs 36 mins       █████████░░░░░░░░░░░░░░░░   34.18 % 
+Opencode Cli             4 hrs 24 mins       █████████████████░░░░░░░░   69.91 % 
+VS Code                  1 hr 53 mins        ████████░░░░░░░░░░░░░░░░░   30.09 % 
 
 🐱‍💻 Projects: 
-litert-mcu-examples      5 hrs 39 mins       ███████████████████░░░░░░   74.25 % 
-kws-test-new             1 hr 56 mins        ██████░░░░░░░░░░░░░░░░░░░   25.41 % 
-fsfm-private             1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 % 
+litert-mcu-examples      4 hrs 34 mins       ██████████████████░░░░░░░   72.52 % 
+kws-test-new             1 hr 42 mins        ███████░░░░░░░░░░░░░░░░░░   27.07 % 
+fsfm-private             1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.41 % 
 
 💻 Operating System: 
-Linux                    7 hrs 37 mins       █████████████████████████   100.00 % 
+Linux                    6 hrs 18 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 6 hrs (78.86%)
+⏱ AI Coding Time: 5 hrs 6 mins (80.94%)
 
-✍️ 3,142 lines written by AI, 38 lines written by hand (98.81% AI-written)
+✍️ 1,625 lines written by AI, 36 lines written by hand (97.83% AI-written)
 
-🔤 8,893,330 Input Tokens, 286,554 Output Tokens
+🔤 8,110,452 Input Tokens, 264,702 Output Tokens
 
-💵 $91.56 Estimated AI Cost This Week
+💵 $96.91 Estimated AI Cost This Week
 
-🧠 18 AI Sessions, 82 AI Prompts
+🧠 18 AI Sessions, 77 AI Prompts
 
-GPT                      3,294 lines         █████████████████████████   100.00 % 
+GPT                      1,801 lines         █████████████████████████   100.00 % 
 Opencode-Cli             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 98.81% of written lines came from AI
-📝 Concise Prompter — average 165 characters per prompt
-🔁 Iterative Prompter — average 5 prompts per session
-🚀 High AI Trust — 1.35% of changed lines were hand-edited
+🤖 AI-Driven — 97.83% of written lines came from AI
+📝 Concise Prompter — average 159 characters per prompt
+🔁 Iterative Prompter — average 4 prompts per session
+🚀 High AI Trust — 2.28% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -85,7 +85,7 @@ TypeScript               2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 19/08/2026 00:56:07 UTC
+ Last Updated on 20/08/2026 00:54:32 UTC
 <!--END_SECTION:waka-->
 
 
