@@ -30,44 +30,43 @@ Sunday                   471 commits         █████░░░░░░�
 🕑︎ Time Zone: Asia/Taipei
 
 💬 Programming Languages: 
-C++                      1 hr 30 mins        ███████████░░░░░░░░░░░░░░   44.48 % 
-Other                    52 mins             ██████░░░░░░░░░░░░░░░░░░░   25.66 % 
-Markdown                 27 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.47 % 
-Bash                     20 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.30 % 
-CMake                    10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.32 % 
+C++                      1 hr 14 mins        ███████████████░░░░░░░░░░   60.35 % 
+Markdown                 27 mins             ██████░░░░░░░░░░░░░░░░░░░   22.24 % 
+Bash                     10 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.85 % 
+CMake                    9 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.86 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.70 % 
 
 🔥 Editors: 
-Opencode Cli             2 hrs 36 mins       ███████████████████░░░░░░   76.93 % 
-VS Code                  46 mins             ██████░░░░░░░░░░░░░░░░░░░   23.07 % 
+Opencode Cli             1 hr 44 mins        █████████████████████░░░░   84.68 % 
+VS Code                  18 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.32 % 
 
 🐱‍💻 Projects: 
-litert-mcu-examples      2 hrs 29 mins       ██████████████████░░░░░░░   73.58 % 
-kws-test-new             52 mins             ██████░░░░░░░░░░░░░░░░░░░   25.66 % 
-fsfm-private             1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.77 % 
+litert-mcu-examples      2 hrs 2 mins        █████████████████████████   99.30 % 
+kws-test-new             0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.70 % 
 
 💻 Operating System: 
-Linux                    3 hrs 23 mins       █████████████████████████   100.00 % 
+Linux                    2 hrs 3 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 3 hrs 7 mins (92.15%)
+⏱ AI Coding Time: 2 hrs 3 mins (100.0%)
 
-✍️ 425 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 131 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 6,611,851 Input Tokens, 203,637 Output Tokens
+🔤 4,664,438 Input Tokens, 116,682 Output Tokens
 
-💵 $90.54 Estimated AI Cost This Week
+💵 $66.27 Estimated AI Cost This Week
 
-🧠 11 AI Sessions, 49 AI Prompts
+🧠 6 AI Sessions, 24 AI Prompts
 
-GPT                      568 lines           █████████████████████████   100.00 % 
+GPT                      274 lines           █████████████████████████   100.00 % 
 Opencode-Cli             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📝 Concise Prompter — average 167 characters per prompt
+📝 Concise Prompter — average 115 characters per prompt
 🔁 Iterative Prompter — average 4 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
@@ -85,7 +84,7 @@ TypeScript               2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 24/08/2026 00:57:21 UTC
+ Last Updated on 25/08/2026 00:57:26 UTC
 <!--END_SECTION:waka-->
 
 
