@@ -30,45 +30,45 @@ Sunday                   471 commits         █████░░░░░░�
 🕑︎ Time Zone: Asia/Taipei
 
 💬 Programming Languages: 
-C++                      1 hr 14 mins        ███████████████░░░░░░░░░░   60.35 % 
-Markdown                 27 mins             ██████░░░░░░░░░░░░░░░░░░░   22.24 % 
-Bash                     10 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.85 % 
-CMake                    9 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.86 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.70 % 
+Markdown                 45 mins             █████████░░░░░░░░░░░░░░░░   35.01 % 
+Python                   24 mins             █████░░░░░░░░░░░░░░░░░░░░   18.66 % 
+C++                      23 mins             █████░░░░░░░░░░░░░░░░░░░░   18.31 % 
+Other                    22 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.99 % 
+Bash                     13 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.18 % 
 
 🔥 Editors: 
-Opencode Cli             1 hr 44 mins        █████████████████████░░░░   84.68 % 
-VS Code                  18 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.32 % 
+VS Code                  1 hr 12 mins        ██████████████░░░░░░░░░░░   55.67 % 
+Opencode Cli             57 mins             ███████████░░░░░░░░░░░░░░   44.33 % 
 
 🐱‍💻 Projects: 
-litert-mcu-examples      2 hrs 2 mins        █████████████████████████   99.30 % 
-kws-test-new             0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.70 % 
+litert-mcu-examples      1 hr 48 mins        █████████████████████░░░░   83.01 % 
+kws-test-new             22 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.99 % 
 
 💻 Operating System: 
-Linux                    2 hrs 3 mins        █████████████████████████   100.00 % 
+Linux                    2 hrs 10 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 2 hrs 3 mins (100.0%)
+⏱ AI Coding Time: 1 hr 19 mins (61.19%)
 
-✍️ 131 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 794 lines written by AI, 361 lines written by hand (68.74% AI-written)
 
-🔤 4,664,438 Input Tokens, 116,682 Output Tokens
+🔤 1,586,986 Input Tokens, 72,601 Output Tokens
 
-💵 $66.27 Estimated AI Cost This Week
+💵 $42.58 Estimated AI Cost This Week
 
-🧠 6 AI Sessions, 24 AI Prompts
+🧠 3 AI Sessions, 18 AI Prompts
 
-GPT                      274 lines           █████████████████████████   100.00 % 
+GPT                      2,062 lines         █████████████████████████   100.00 % 
 Opencode-Cli             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 100.0% of written lines came from AI
-📝 Concise Prompter — average 115 characters per prompt
-🔁 Iterative Prompter — average 4 prompts per session
-🚀 High AI Trust — 0.0% of changed lines were hand-edited
+🤖 AI-Driven — 68.74% of written lines came from AI
+📝 Concise Prompter — average 120 characters per prompt
+🔁 Iterative Prompter — average 6 prompts per session
+🚀 High AI Trust — 14.9% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -84,7 +84,7 @@ TypeScript               2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 25/08/2026 00:57:26 UTC
+ Last Updated on 26/08/2026 00:58:27 UTC
 <!--END_SECTION:waka-->
 
 
