@@ -1,26 +1,26 @@
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C620%20hrs%209%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C625%20hrs%204%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-45%20hrs%2025%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-49%20hrs%2021%20mins-blue?style=flat)
 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                344 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.29 % 
-🌆 Daytime                1008 commits        ██████████░░░░░░░░░░░░░░░   41.86 % 
-🌃 Evening                624 commits         ██████░░░░░░░░░░░░░░░░░░░   25.91 % 
-🌙 Night                  432 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.94 % 
+🌞 Morning                344 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.07 % 
+🌆 Daytime                1008 commits        ██████████░░░░░░░░░░░░░░░   41.23 % 
+🌃 Evening                661 commits         ███████░░░░░░░░░░░░░░░░░░   27.03 % 
+🌙 Night                  432 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.67 % 
 ```
 📅 **I'm Most Productive on Saturday** 
 
 ```text
-Monday                   292 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.13 % 
-Tuesday                  247 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.26 % 
-Wednesday                257 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.67 % 
-Thursday                 195 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.10 % 
-Friday                   294 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.21 % 
-Saturday                 637 commits         ███████░░░░░░░░░░░░░░░░░░   26.45 % 
-Sunday                   486 commits         █████░░░░░░░░░░░░░░░░░░░░   20.18 % 
+Monday                   292 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.94 % 
+Tuesday                  284 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.62 % 
+Wednesday                257 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.51 % 
+Thursday                 195 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.98 % 
+Friday                   294 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.02 % 
+Saturday                 637 commits         ███████░░░░░░░░░░░░░░░░░░   26.05 % 
+Sunday                   486 commits         █████░░░░░░░░░░░░░░░░░░░░   19.88 % 
 ```
 
 
@@ -30,63 +30,67 @@ Sunday                   486 commits         █████░░░░░░�
 🕑︎ Time Zone: Asia/Taipei
 
 💬 Programming Languages: 
-Markdown                 4 hrs               ████████░░░░░░░░░░░░░░░░░   33.15 % 
-Other                    2 hrs 15 mins       █████░░░░░░░░░░░░░░░░░░░░   18.74 % 
-Python                   2 hrs 15 mins       █████░░░░░░░░░░░░░░░░░░░░   18.73 % 
-Bash                     1 hr 34 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.07 % 
-C++                      1 hr 8 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   09.41 % 
+Markdown                 3 hrs 26 mins       ███████░░░░░░░░░░░░░░░░░░   27.09 % 
+Python                   2 hrs 57 mins       ██████░░░░░░░░░░░░░░░░░░░   23.30 % 
+Other                    1 hr 57 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.42 % 
+Bash                     1 hr 21 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.68 % 
+C++                      1 hr 17 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.18 % 
 
 🔥 Editors: 
-Opencode Cli             6 hrs 7 mins        █████████████░░░░░░░░░░░░   50.78 % 
-VS Code                  5 hrs 56 mins       ████████████░░░░░░░░░░░░░   49.22 % 
+VS Code                  6 hrs 21 mins       █████████████░░░░░░░░░░░░   50.12 % 
+Opencode Cli             5 hrs 35 mins       ███████████░░░░░░░░░░░░░░   44.14 % 
+Claude Code              43 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.75 % 
 
 🐱‍💻 Projects: 
-litert-mcu-examples      9 hrs 25 mins       ████████████████████░░░░░   78.08 % 
-kws-test-new             2 hrs 35 mins       █████░░░░░░░░░░░░░░░░░░░░   21.49 % 
-fsfm-private             2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 % 
-litert-mcu               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 % 
+litert-mcu-examples      8 hrs 1 min         ████████████████░░░░░░░░░   63.29 % 
+kws-test-new             2 hrs 17 mins       █████░░░░░░░░░░░░░░░░░░░░   18.02 % 
+PP26                     1 hr 20 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.57 % 
+nova-infra               58 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.67 % 
+fsfm-private             2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 % 
 
 💻 Operating System: 
-Linux                    12 hrs 3 mins       █████████████████████████   100.00 % 
+Linux                    10 hrs 22 mins      ████████████████████░░░░░   81.73 % 
+Mac                      2 hrs 19 mins       █████░░░░░░░░░░░░░░░░░░░░   18.27 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 8 hrs 41 mins (72.04%)
+⏱ AI Coding Time: 9 hrs 6 mins (71.82%)
 
-✍️ 7,367 lines written by AI, 550 lines written by hand (93.05% AI-written)
+✍️ 6,658 lines written by AI, 509 lines written by hand (92.9% AI-written)
 
-🔤 7,692,906 Input Tokens, 547,265 Output Tokens
+🔤 6,887,744 Input Tokens, 529,039 Output Tokens
 
-💵 $187.18 Estimated AI Cost This Week
+💵 $159.08 Estimated AI Cost This Week
 
-🧠 12 AI Sessions, 108 AI Prompts
+🧠 12 AI Sessions, 119 AI Prompts
 
-GPT                      10,103 lines        █████████████████████████   100.00 % 
+GPT                      8,083 lines         █████████████████████████   99.04 % 
+Sonnet                   78 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.96 % 
 Opencode-Cli             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 93.05% of written lines came from AI
-📝 Concise Prompter — average 90 characters per prompt
-🔁 Iterative Prompter — average 9 prompts per session
-🚀 High AI Trust — 5.61% of changed lines were hand-edited
+🤖 AI-Driven — 92.9% of written lines came from AI
+📝 Concise Prompter — average 97 characters per prompt
+🔁 Iterative Prompter — average 10 prompts per session
+🔍 Hands-On Reviewer — 50.75% of changed lines were hand-edited
 ```
 
-**I Mostly Code in Python** 
+**I Mostly Code in C++** 
 
 ```text
-Python                   14 repos            █████░░░░░░░░░░░░░░░░░░░░   20.29 % 
-C                        4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.80 % 
-Fortran                  3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.35 % 
-Vue                      2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.90 % 
-TypeScript               2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.90 % 
+C++                      15 repos            █████░░░░░░░░░░░░░░░░░░░░   21.43 % 
+Python                   14 repos            █████░░░░░░░░░░░░░░░░░░░░   20.00 % 
+Fortran                  3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.29 % 
+Vue                      2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.86 % 
+TypeScript               2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.86 % 
 ```
 
 
 
 
- Last Updated on 01/09/2026 03:04:52 UTC
+ Last Updated on 02/09/2026 02:25:03 UTC
 <!--END_SECTION:waka-->
 
 
