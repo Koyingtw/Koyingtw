@@ -30,51 +30,51 @@ Sunday                   486 commits         █████░░░░░░�
 🕑︎ Time Zone: Asia/Taipei
 
 💬 Programming Languages: 
-Markdown                 3 hrs 26 mins       ███████░░░░░░░░░░░░░░░░░░   27.09 % 
-Python                   2 hrs 57 mins       ██████░░░░░░░░░░░░░░░░░░░   23.30 % 
-Other                    1 hr 57 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.42 % 
-Bash                     1 hr 21 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.68 % 
-C++                      1 hr 17 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.18 % 
+Markdown                 2 hrs 48 mins       ██████░░░░░░░░░░░░░░░░░░░   23.42 % 
+Python                   2 hrs 21 mins       █████░░░░░░░░░░░░░░░░░░░░   19.75 % 
+Other                    2 hrs 18 mins       █████░░░░░░░░░░░░░░░░░░░░   19.22 % 
+C++                      1 hr 31 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.74 % 
+Bash                     1 hr 21 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.28 % 
 
 🔥 Editors: 
-VS Code                  6 hrs 21 mins       █████████████░░░░░░░░░░░░   50.12 % 
-Opencode Cli             5 hrs 35 mins       ███████████░░░░░░░░░░░░░░   44.14 % 
-Claude Code              43 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.75 % 
+VS Code                  5 hrs 42 mins       ████████████░░░░░░░░░░░░░   47.67 % 
+Opencode Cli             5 hrs 32 mins       ████████████░░░░░░░░░░░░░   46.25 % 
+Claude Code              43 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.09 % 
 
 🐱‍💻 Projects: 
-litert-mcu-examples      8 hrs 1 min         ████████████████░░░░░░░░░   63.29 % 
-kws-test-new             2 hrs 17 mins       █████░░░░░░░░░░░░░░░░░░░░   18.02 % 
-PP26                     1 hr 20 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.57 % 
-nova-infra               58 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.67 % 
-fsfm-private             2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 % 
+litert-mcu-examples      6 hrs 58 mins       ███████████████░░░░░░░░░░   58.29 % 
+kws-test-new             2 hrs 39 mins       ██████░░░░░░░░░░░░░░░░░░░   22.22 % 
+PP26                     1 hr 20 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.20 % 
+nova-infra               58 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.12 % 
+litert-mcu               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 % 
 
 💻 Operating System: 
-Linux                    10 hrs 22 mins      ████████████████████░░░░░   81.73 % 
-Mac                      2 hrs 19 mins       █████░░░░░░░░░░░░░░░░░░░░   18.27 % 
+Linux                    9 hrs 39 mins       ████████████████████░░░░░   80.64 % 
+Mac                      2 hrs 19 mins       █████░░░░░░░░░░░░░░░░░░░░   19.36 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 9 hrs 6 mins (71.82%)
+⏱ AI Coding Time: 8 hrs 36 mins (71.91%)
 
-✍️ 6,658 lines written by AI, 509 lines written by hand (92.9% AI-written)
+✍️ 4,147 lines written by AI, 479 lines written by hand (89.65% AI-written)
 
-🔤 6,887,744 Input Tokens, 529,039 Output Tokens
+🔤 7,719,690 Input Tokens, 405,886 Output Tokens
 
-💵 $159.08 Estimated AI Cost This Week
+💵 $146.47 Estimated AI Cost This Week
 
-🧠 12 AI Sessions, 119 AI Prompts
+🧠 12 AI Sessions, 100 AI Prompts
 
-GPT                      8,083 lines         █████████████████████████   99.04 % 
-Sonnet                   78 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.96 % 
+GPT                      4,855 lines         █████████████████████████   98.42 % 
+Sonnet                   78 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   01.58 % 
 Opencode-Cli             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 92.9% of written lines came from AI
-📝 Concise Prompter — average 97 characters per prompt
-🔁 Iterative Prompter — average 10 prompts per session
-🔍 Hands-On Reviewer — 50.75% of changed lines were hand-edited
+🤖 AI-Driven — 89.65% of written lines came from AI
+📝 Concise Prompter — average 83 characters per prompt
+🔁 Iterative Prompter — average 8 prompts per session
+🔍 Hands-On Reviewer — 62.91% of changed lines were hand-edited
 ```
 
 **I Mostly Code in C++** 
@@ -90,7 +90,7 @@ TypeScript               2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 02/09/2026 02:25:03 UTC
+ Last Updated on 03/09/2026 02:32:45 UTC
 <!--END_SECTION:waka-->
 
 
