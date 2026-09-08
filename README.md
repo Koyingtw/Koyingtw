@@ -30,51 +30,51 @@ Sunday                   514 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Taipei
 
 💬 Programming Languages: 
-C++                      3 hrs 48 mins       ███████░░░░░░░░░░░░░░░░░░   27.19 % 
-Python                   3 hrs 1 min         █████░░░░░░░░░░░░░░░░░░░░   21.56 % 
-Markdown                 2 hrs 53 mins       █████░░░░░░░░░░░░░░░░░░░░   20.65 % 
-Other                    2 hrs               ████░░░░░░░░░░░░░░░░░░░░░   14.38 % 
-Bash                     56 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.73 % 
+C++                      3 hrs 38 mins       ████████░░░░░░░░░░░░░░░░░   32.84 % 
+Python                   2 hrs 10 mins       █████░░░░░░░░░░░░░░░░░░░░   19.63 % 
+Markdown                 2 hrs 4 mins        █████░░░░░░░░░░░░░░░░░░░░   18.73 % 
+Other                    1 hr 28 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.23 % 
+YAML                     46 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.97 % 
 
 🔥 Editors: 
-Opencode Cli             6 hrs 46 mins       ████████████░░░░░░░░░░░░░   48.36 % 
-VS Code                  6 hrs 30 mins       ████████████░░░░░░░░░░░░░   46.43 % 
-Claude Code              43 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.21 % 
+VS Code                  5 hrs 14 mins       ████████████░░░░░░░░░░░░░   47.13 % 
+Opencode Cli             5 hrs 8 mins        ████████████░░░░░░░░░░░░░   46.31 % 
+Claude Code              43 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.56 % 
 
 🐱‍💻 Projects: 
-litert-mcu-examples      9 hrs 2 mins        ████████████████░░░░░░░░░   64.61 % 
-kws-test-new             1 hr 41 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.10 % 
-PP26                     1 hr 20 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.58 % 
-nova-infra               58 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.95 % 
-litert-mcu               36 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.30 % 
+litert-mcu-examples      6 hrs 41 mins       ███████████████░░░░░░░░░░   60.28 % 
+PP26                     1 hr 20 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.08 % 
+kws-test-new             1 hr 8 mins         ███░░░░░░░░░░░░░░░░░░░░░░   10.35 % 
+nova-infra               58 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.76 % 
+litert-mcu               36 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.42 % 
 
 💻 Operating System: 
-Linux                    11 hrs 41 mins      █████████████████████░░░░   83.48 % 
-Mac                      2 hrs 18 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.52 % 
+Linux                    8 hrs 47 mins       ████████████████████░░░░░   79.16 % 
+Mac                      2 hrs 18 mins       █████░░░░░░░░░░░░░░░░░░░░   20.84 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 10 hrs 8 mins (72.45%)
+⏱ AI Coding Time: 7 hrs 43 mins (69.52%)
 
-✍️ 2,777 lines written by AI, 424 lines written by hand (86.75% AI-written)
+✍️ 914 lines written by AI, 390 lines written by hand (70.09% AI-written)
 
-🔤 8,672,385 Input Tokens, 520,808 Output Tokens
+🔤 5,698,082 Input Tokens, 333,708 Output Tokens
 
-💵 $219.86 Estimated AI Cost This Week
+💵 $153.38 Estimated AI Cost This Week
 
-🧠 13 AI Sessions, 134 AI Prompts
+🧠 10 AI Sessions, 105 AI Prompts
 
-GPT                      3,423 lines         ████████████████████████░   97.77 % 
-Sonnet                   78 lines            █░░░░░░░░░░░░░░░░░░░░░░░░   02.23 % 
+GPT                      1,000 lines         ███████████████████████░░   92.76 % 
+Sonnet                   78 lines            ██░░░░░░░░░░░░░░░░░░░░░░░   07.24 % 
 Opencode-Cli             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 86.75% of written lines came from AI
-📝 Concise Prompter — average 196 characters per prompt
+🤖 AI-Driven — 70.09% of written lines came from AI
+📝 Concise Prompter — average 240 characters per prompt
 🔁 Iterative Prompter — average 10 prompts per session
-🔍 Hands-On Reviewer — 70.46% of changed lines were hand-edited
+🚀 High AI Trust — 30.23% of changed lines were hand-edited
 ```
 
 **I Mostly Code in C++** 
@@ -90,7 +90,7 @@ TypeScript               2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 07/09/2026 02:22:46 UTC
+ Last Updated on 08/09/2026 02:33:49 UTC
 <!--END_SECTION:waka-->
 
 
