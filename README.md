@@ -30,50 +30,50 @@ Sunday                   514 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Taipei
 
 💬 Programming Languages: 
-C++                      3 hrs 34 mins       █████████████░░░░░░░░░░░░   52.60 % 
-Markdown                 1 hr 12 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.79 % 
-Python                   1 hr 4 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.77 % 
-Bash                     31 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.62 % 
-Other                    23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.67 % 
+C++                      3 hrs 8 mins        ███████████████░░░░░░░░░░   59.32 % 
+Bash                     48 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.32 % 
+Python                   42 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.41 % 
+Other                    23 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.28 % 
+CMake                    10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.21 % 
 
 🔥 Editors: 
-Opencode Cli             3 hrs 34 mins       █████████████░░░░░░░░░░░░   52.59 % 
-VS Code                  3 hrs 8 mins        ████████████░░░░░░░░░░░░░   46.29 % 
-Codex Vscode             4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.12 % 
+VS Code                  3 hrs 26 mins       ████████████████░░░░░░░░░   65.00 % 
+Opencode Cli             1 hr 46 mins        ████████░░░░░░░░░░░░░░░░░   33.56 % 
+Codex Vscode             4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.44 % 
 
 🐱‍💻 Projects: 
-litert-mcu-examples      5 hrs 6 mins        ███████████████████░░░░░░   75.11 % 
-litert-mcu               1 hr 4 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.77 % 
-fsfm-private             20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.09 % 
-module0_lab              14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.45 % 
-ACAL                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.58 % 
+litert-mcu-examples      3 hrs 35 mins       █████████████████░░░░░░░░   67.94 % 
+litert-mcu               1 hr 4 mins         █████░░░░░░░░░░░░░░░░░░░░   20.26 % 
+fsfm-private             21 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.63 % 
+module0_lab              14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.44 % 
+ACAL                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.74 % 
 
 💻 Operating System: 
-Linux                    6 hrs 31 mins       ████████████████████████░   95.97 % 
-Mac                      16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.03 % 
+Linux                    5 hrs               ████████████████████████░   94.82 % 
+Mac                      16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.18 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 4 hrs 52 mins (71.85%)
+⏱ AI Coding Time: 2 hrs 46 mins (52.4%)
 
-✍️ 1,170 lines written by AI, 103 lines written by hand (91.91% AI-written)
+✍️ 1,094 lines written by AI, 105 lines written by hand (91.24% AI-written)
 
-🔤 5,146,519 Input Tokens, 301,254 Output Tokens
+🔤 4,029,076 Input Tokens, 218,939 Output Tokens
 
-💵 $146.01 Estimated AI Cost This Week
+💵 $112.58 Estimated AI Cost This Week
 
-🧠 8 AI Sessions, 64 AI Prompts
+🧠 7 AI Sessions, 56 AI Prompts
 
-GPT                      1,501 lines         █████████████████████████   100.00 % 
+GPT                      1,428 lines         █████████████████████████   100.00 % 
 Opencode-Cli             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 91.91% of written lines came from AI
-📝 Concise Prompter — average 307 characters per prompt
+🤖 AI-Driven — 91.24% of written lines came from AI
+📝 Concise Prompter — average 324 characters per prompt
 🔁 Iterative Prompter — average 8 prompts per session
-🚀 High AI Trust — 10.44% of changed lines were hand-edited
+🚀 High AI Trust — 12.23% of changed lines were hand-edited
 ```
 
 **I Mostly Code in C++** 
@@ -89,7 +89,7 @@ TypeScript               2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 10/09/2026 02:36:44 UTC
+ Last Updated on 11/09/2026 02:31:24 UTC
 <!--END_SECTION:waka-->
 
 
