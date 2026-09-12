@@ -1,7 +1,7 @@
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C633%20hrs%206%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C634%20hrs%209%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-56%20hrs%2028%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-56%20hrs%2055%20mins-blue?style=flat)
 
 **I'm an Early 🐤** 
 
@@ -30,50 +30,50 @@ Sunday                   514 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Taipei
 
 💬 Programming Languages: 
-C++                      3 hrs 8 mins        ███████████████░░░░░░░░░░   59.32 % 
-Bash                     48 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.32 % 
-Python                   42 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.41 % 
-Other                    23 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.28 % 
-CMake                    10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.21 % 
+C++                      3 hrs 54 mins       ████████████████░░░░░░░░░   63.31 % 
+Bash                     53 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.47 % 
+CMake                    36 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.91 % 
+Python                   19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.39 % 
+Markdown                 15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.05 % 
 
 🔥 Editors: 
-VS Code                  3 hrs 26 mins       ████████████████░░░░░░░░░   65.00 % 
-Opencode Cli             1 hr 46 mins        ████████░░░░░░░░░░░░░░░░░   33.56 % 
-Codex Vscode             4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.44 % 
+VS Code                  3 hrs 22 mins       ██████████████░░░░░░░░░░░   54.54 % 
+Opencode Cli             2 hrs 43 mins       ███████████░░░░░░░░░░░░░░   44.23 % 
+Codex Vscode             4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.23 % 
 
 🐱‍💻 Projects: 
-litert-mcu-examples      3 hrs 35 mins       █████████████████░░░░░░░░   67.94 % 
-litert-mcu               1 hr 4 mins         █████░░░░░░░░░░░░░░░░░░░░   20.26 % 
-fsfm-private             21 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.63 % 
-module0_lab              14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.44 % 
-ACAL                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.74 % 
+litert-mcu-examples      3 hrs 7 mins        █████████████░░░░░░░░░░░░   50.48 % 
+litert-mcu               2 hrs 44 mins       ███████████░░░░░░░░░░░░░░   44.35 % 
+module0_lab              14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.80 % 
+kchen                    2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.67 % 
+ACAL                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.63 % 
 
 💻 Operating System: 
-Linux                    5 hrs               ████████████████████████░   94.82 % 
-Mac                      16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.18 % 
+Linux                    5 hrs 54 mins       ████████████████████████░   95.57 % 
+Mac                      16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.43 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 2 hrs 46 mins (52.4%)
+⏱ AI Coding Time: 4 hrs 24 mins (71.41%)
 
-✍️ 1,094 lines written by AI, 105 lines written by hand (91.24% AI-written)
+✍️ 873 lines written by AI, 34 lines written by hand (96.25% AI-written)
 
-🔤 4,029,076 Input Tokens, 218,939 Output Tokens
+🔤 4,824,584 Input Tokens, 285,638 Output Tokens
 
-💵 $112.58 Estimated AI Cost This Week
+💵 $182.62 Estimated AI Cost This Week
 
-🧠 7 AI Sessions, 56 AI Prompts
+🧠 7 AI Sessions, 90 AI Prompts
 
-GPT                      1,428 lines         █████████████████████████   100.00 % 
+GPT                      1,318 lines         █████████████████████████   100.00 % 
 Opencode-Cli             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 91.24% of written lines came from AI
-📝 Concise Prompter — average 324 characters per prompt
-🔁 Iterative Prompter — average 8 prompts per session
-🚀 High AI Trust — 12.23% of changed lines were hand-edited
+🤖 AI-Driven — 96.25% of written lines came from AI
+📄 Detailed Prompter — average 1,347 characters per prompt
+🔁 Iterative Prompter — average 13 prompts per session
+🚀 High AI Trust — 4.56% of changed lines were hand-edited
 ```
 
 **I Mostly Code in C++** 
@@ -89,7 +89,7 @@ TypeScript               2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 11/09/2026 02:31:24 UTC
+ Last Updated on 12/09/2026 02:38:51 UTC
 <!--END_SECTION:waka-->
 
 
