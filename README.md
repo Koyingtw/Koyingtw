@@ -1,26 +1,26 @@
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C651%20hrs%2041%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C653%20hrs%2042%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-71%20hrs%2016%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-72%20hrs%2058%20mins-blue?style=flat)
 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                424 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.97 % 
-🌆 Daytime                1097 commits        ██████████░░░░░░░░░░░░░░░   38.72 % 
-🌃 Evening                802 commits         ███████░░░░░░░░░░░░░░░░░░   28.31 % 
+🌞 Morning                424 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.96 % 
+🌆 Daytime                1098 commits        ██████████░░░░░░░░░░░░░░░   38.74 % 
+🌃 Evening                802 commits         ███████░░░░░░░░░░░░░░░░░░   28.30 % 
 🌙 Night                  510 commits         ████░░░░░░░░░░░░░░░░░░░░░   18.00 % 
 ```
 📅 **I'm Most Productive on Saturday** 
 
 ```text
-Monday                   309 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.91 % 
-Tuesday                  331 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.68 % 
+Monday                   309 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.90 % 
+Tuesday                  332 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.71 % 
 Wednesday                301 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.62 % 
 Thursday                 261 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.21 % 
-Friday                   490 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.30 % 
-Saturday                 664 commits         ██████░░░░░░░░░░░░░░░░░░░   23.44 % 
-Sunday                   477 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.84 % 
+Friday                   490 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.29 % 
+Saturday                 664 commits         ██████░░░░░░░░░░░░░░░░░░░   23.43 % 
+Sunday                   477 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.83 % 
 ```
 
 
@@ -30,51 +30,51 @@ Sunday                   477 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Taipei
 
 💬 Programming Languages: 
-TeX                      8 hrs 15 mins       █████████████░░░░░░░░░░░░   53.10 % 
-Markdown                 2 hrs 53 mins       █████░░░░░░░░░░░░░░░░░░░░   18.60 % 
-CMake                    54 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.89 % 
-Bash                     46 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.03 % 
-Python                   42 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.59 % 
+TeX                      6 hrs 52 mins       █████████████░░░░░░░░░░░░   53.72 % 
+Markdown                 1 hr 31 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.86 % 
+CMake                    54 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.16 % 
+Bash                     46 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.11 % 
+Python                   42 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.57 % 
 
 🔥 Editors: 
-Codex Vscode             8 hrs 15 mins       █████████████░░░░░░░░░░░░   53.15 % 
-VS Code                  5 hrs 46 mins       █████████░░░░░░░░░░░░░░░░   37.18 % 
-Opencode Cli             1 hr 30 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.67 % 
+Codex Vscode             5 hrs 43 mins       ███████████░░░░░░░░░░░░░░   44.71 % 
+VS Code                  5 hrs 34 mins       ███████████░░░░░░░░░░░░░░   43.54 % 
+Opencode Cli             1 hr 30 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.75 % 
 
 🐱‍💻 Projects: 
-Master-Application       11 hrs 11 mins      ██████████████████░░░░░░░   72.03 % 
-litert-mcu-examples      2 hrs 32 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.36 % 
-riscv-scalar-core-templat32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.46 % 
-ACAL                     21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.31 % 
-litert-mcu-examples-relea18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.01 % 
+Master-Application       8 hrs 25 mins       ████████████████░░░░░░░░░   65.89 % 
+litert-mcu-examples      2 hrs 32 mins       █████░░░░░░░░░░░░░░░░░░░░   19.88 % 
+riscv-scalar-core-templat32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.21 % 
+ACAL                     21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.80 % 
+litert-mcu-examples-relea18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.44 % 
 
 💻 Operating System: 
-Mac                      12 hrs 37 mins      ████████████████████░░░░░   81.22 % 
-Linux                    2 hrs 55 mins       █████░░░░░░░░░░░░░░░░░░░░   18.78 % 
+Mac                      9 hrs 52 mins       ███████████████████░░░░░░   77.18 % 
+Linux                    2 hrs 55 mins       ██████░░░░░░░░░░░░░░░░░░░   22.82 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 12 hrs 26 mins (80.05%)
+⏱ AI Coding Time: 9 hrs 10 mins (71.7%)
 
-✍️ 9,694 lines written by AI, 86 lines written by hand (99.12% AI-written)
+✍️ 7,579 lines written by AI, 103 lines written by hand (98.66% AI-written)
 
-🔤 16,719,301 Input Tokens, 1,630,250 Output Tokens
+🔤 14,162,639 Input Tokens, 1,432,415 Output Tokens
 
-💵 $255.72 Estimated AI Cost This Week
+💵 $189.74 Estimated AI Cost This Week
 
-🧠 29 AI Sessions, 286 AI Prompts
+🧠 27 AI Sessions, 250 AI Prompts
 
-GPT                      9,801 lines         ████████████████████████░   96.57 % 
-Codex-Vscode             348 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   03.43 % 
+GPT                      8,002 lines         █████████████████████████   100.00 % 
 Opencode-Cli             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Codex-Vscode             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.12% of written lines came from AI
-📚 Verbose Prompter — average 11,621 characters per prompt
-🔁 Iterative Prompter — average 10 prompts per session
-🚀 High AI Trust — 2.1% of changed lines were hand-edited
+🤖 AI-Driven — 98.66% of written lines came from AI
+📚 Verbose Prompter — average 12,270 characters per prompt
+🔁 Iterative Prompter — average 9 prompts per session
+🚀 High AI Trust — 2.75% of changed lines were hand-edited
 ```
 
 **I Mostly Code in C++** 
@@ -90,7 +90,7 @@ Vue                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 22/09/2026 02:52:36 UTC
+ Last Updated on 23/09/2026 02:52:15 UTC
 <!--END_SECTION:waka-->
 
 
