@@ -30,49 +30,49 @@ Sunday                   477 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Taipei
 
 💬 Programming Languages: 
-TeX                      3 hrs 2 mins        ████████████░░░░░░░░░░░░░   48.91 % 
-Bash                     1 hr 5 mins         ████░░░░░░░░░░░░░░░░░░░░░   17.41 % 
-Markdown                 51 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.75 % 
-Other                    23 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.34 % 
-Pawn                     11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.98 % 
+TeX                      3 hrs 2 mins        █████████████░░░░░░░░░░░░   51.81 % 
+Bash                     1 hr 5 mins         █████░░░░░░░░░░░░░░░░░░░░   18.45 % 
+Markdown                 46 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.14 % 
+Pawn                     11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.15 % 
+C++                      10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.07 % 
 
 🔥 Editors: 
-VS Code                  3 hrs 52 mins       ████████████████░░░░░░░░░   62.22 % 
-Codex Vscode             2 hrs 2 mins        ████████░░░░░░░░░░░░░░░░░   32.79 % 
-Codex CLI                18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.99 % 
+VS Code                  3 hrs 47 mins       ████████████████░░░░░░░░░   64.48 % 
+Codex Vscode             1 hr 46 mins        ████████░░░░░░░░░░░░░░░░░   30.24 % 
+Codex CLI                18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.28 % 
 
 🐱‍💻 Projects: 
-Master-Application       3 hrs 4 mins        ████████████░░░░░░░░░░░░░   49.46 % 
-litert-mcu-examples      1 hr 29 mins        ██████░░░░░░░░░░░░░░░░░░░   23.86 % 
-riscv-scalar-core-templat32 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.64 % 
-ACAL                     22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.91 % 
-SC26-System              18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.99 % 
+Master-Application       3 hrs 4 mins        █████████████░░░░░░░░░░░░   52.39 % 
+litert-mcu-examples      1 hr 29 mins        ██████░░░░░░░░░░░░░░░░░░░   25.27 % 
+riscv-scalar-core-templat27 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.72 % 
+SC26-System              18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.28 % 
+litert-mcu               16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.64 % 
 
 💻 Operating System: 
-Mac                      4 hrs 27 mins       ██████████████████░░░░░░░   71.70 % 
-Linux                    1 hr 45 mins        ███████░░░░░░░░░░░░░░░░░░   28.30 % 
+Mac                      4 hrs 7 mins        ██████████████████░░░░░░░   70.02 % 
+Linux                    1 hr 45 mins        ███████░░░░░░░░░░░░░░░░░░   29.98 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 3 hrs 7 mins (50.25%)
+⏱ AI Coding Time: 2 hrs 46 mins (47.3%)
 
 ✍️ 4,193 lines written by AI, 76 lines written by hand (98.22% AI-written)
 
-🔤 3,477,720 Input Tokens, 339,483 Output Tokens
+🔤 3,342,642 Input Tokens, 297,512 Output Tokens
 
-💵 $46.60 Estimated AI Cost This Week
+💵 $42.94 Estimated AI Cost This Week
 
-🧠 15 AI Sessions, 121 AI Prompts
+🧠 13 AI Sessions, 112 AI Prompts
 
 GPT                      4,316 lines         █████████████████████████   100.00 % 
 Codex-Vscode             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 98.22% of written lines came from AI
-📚 Verbose Prompter — average 16,820 characters per prompt
-🔁 Iterative Prompter — average 8 prompts per session
+📚 Verbose Prompter — average 18,036 characters per prompt
+🔁 Iterative Prompter — average 9 prompts per session
 🚀 High AI Trust — 4.6% of changed lines were hand-edited
 ```
 
@@ -89,7 +89,7 @@ Vue                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 27/09/2026 03:06:16 UTC
+ Last Updated on 28/09/2026 03:04:03 UTC
 <!--END_SECTION:waka-->
 
 
