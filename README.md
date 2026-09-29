@@ -30,50 +30,49 @@ Sunday                   477 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Taipei
 
 💬 Programming Languages: 
-TeX                      3 hrs 2 mins        █████████████░░░░░░░░░░░░   51.81 % 
-Bash                     1 hr 5 mins         █████░░░░░░░░░░░░░░░░░░░░   18.45 % 
-Markdown                 46 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.14 % 
-Pawn                     11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.15 % 
-C++                      10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.07 % 
+TeX                      1 hr 54 mins        █████████████░░░░░░░░░░░░   50.40 % 
+Bash                     46 mins             █████░░░░░░░░░░░░░░░░░░░░   20.54 % 
+Markdown                 32 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.57 % 
+Pawn                     11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.92 % 
+C++                      8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.61 % 
 
 🔥 Editors: 
-VS Code                  3 hrs 47 mins       ████████████████░░░░░░░░░   64.48 % 
-Codex Vscode             1 hr 46 mins        ████████░░░░░░░░░░░░░░░░░   30.24 % 
-Codex CLI                18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.28 % 
+VS Code                  2 hrs 53 mins       ███████████████████░░░░░░   76.66 % 
+Codex Vscode             34 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.10 % 
+Codex CLI                18 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.24 % 
 
 🐱‍💻 Projects: 
-Master-Application       3 hrs 4 mins        █████████████░░░░░░░░░░░░   52.39 % 
-litert-mcu-examples      1 hr 29 mins        ██████░░░░░░░░░░░░░░░░░░░   25.27 % 
-riscv-scalar-core-templat27 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.72 % 
-SC26-System              18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.28 % 
-litert-mcu               16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.64 % 
+Master-Application       1 hr 54 mins        █████████████░░░░░░░░░░░░   50.33 % 
+litert-mcu-examples      1 hr 6 mins         ███████░░░░░░░░░░░░░░░░░░   29.39 % 
+SC26-System              18 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.23 % 
+litert-mcu               16 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.22 % 
+GitPRPractices2026Autumn 8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.75 % 
 
 💻 Operating System: 
-Mac                      4 hrs 7 mins        ██████████████████░░░░░░░   70.02 % 
-Linux                    1 hr 45 mins        ███████░░░░░░░░░░░░░░░░░░   29.98 % 
+Mac                      2 hrs 23 mins       ████████████████░░░░░░░░░   63.22 % 
+Linux                    1 hr 23 mins        █████████░░░░░░░░░░░░░░░░   36.78 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 2 hrs 46 mins (47.3%)
+⏱ AI Coding Time: 1 hr 4 mins (28.65%)
 
-✍️ 4,193 lines written by AI, 76 lines written by hand (98.22% AI-written)
+✍️ 463 lines written by AI, 76 lines written by hand (85.9% AI-written)
 
-🔤 3,342,642 Input Tokens, 297,512 Output Tokens
+🔤 899,873 Input Tokens, 89,299 Output Tokens
 
-💵 $42.94 Estimated AI Cost This Week
+💵 $17.06 Estimated AI Cost This Week
 
-🧠 13 AI Sessions, 112 AI Prompts
+🧠 5 AI Sessions, 22 AI Prompts
 
-GPT                      4,316 lines         █████████████████████████   100.00 % 
-Codex-Vscode             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+GPT                      485 lines           █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 98.22% of written lines came from AI
-📚 Verbose Prompter — average 18,036 characters per prompt
-🔁 Iterative Prompter — average 9 prompts per session
-🚀 High AI Trust — 4.6% of changed lines were hand-edited
+🤖 AI-Driven — 85.9% of written lines came from AI
+📚 Verbose Prompter — average 3,542 characters per prompt
+🔁 Iterative Prompter — average 4 prompts per session
+🚀 High AI Trust — 26.15% of changed lines were hand-edited
 ```
 
 **I Mostly Code in C++** 
@@ -89,7 +88,7 @@ Vue                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 28/09/2026 03:04:03 UTC
+ Last Updated on 29/09/2026 03:45:13 UTC
 <!--END_SECTION:waka-->
 
 
