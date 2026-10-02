@@ -1,7 +1,7 @@
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C663%20hrs%2038%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C664%20hrs%206%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-79%20hrs%2027%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-81%20hrs%2016%20mins-blue?style=flat)
 
 **I'm an Early 🐤** 
 
@@ -30,36 +30,35 @@ Sunday                   477 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Taipei
 
 💬 Programming Languages: 
-TeX                      4 hrs 26 mins       ████████████░░░░░░░░░░░░░   47.13 % 
-Markdown                 1 hr 34 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.70 % 
-Other                    1 hr 22 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.57 % 
-Python                   58 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.29 % 
-Bash                     51 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.18 % 
+TeX                      4 hrs 26 mins       ██████████████░░░░░░░░░░░   55.26 % 
+Other                    1 hr 22 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.08 % 
+Markdown                 1 hr 15 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.70 % 
+Python                   52 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.83 % 
+Bash                     5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.13 % 
 
 🔥 Editors: 
-Codex Vscode             3 hrs 50 mins       ██████████░░░░░░░░░░░░░░░   40.72 % 
-VS Code                  2 hrs 57 mins       ████████░░░░░░░░░░░░░░░░░   31.37 % 
-Bot                      1 hr 23 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.77 % 
-Claude Code              1 hr 14 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.14 % 
+Codex Vscode             3 hrs 50 mins       ████████████░░░░░░░░░░░░░   47.74 % 
+VS Code                  1 hr 34 mins        █████░░░░░░░░░░░░░░░░░░░░   19.53 % 
+Bot                      1 hr 23 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.32 % 
+Claude Code              1 hr 14 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.41 % 
 
 🐱‍💻 Projects: 
-Master-Application       5 hrs 24 mins       ██████████████░░░░░░░░░░░   57.43 % 
-riscv-scalar-core-templat1 hr 21 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.37 % 
-litert-mcu-examples      1 hr 6 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.77 % 
-video                    36 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.47 % 
-HW1_Ch1                  19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.42 % 
+Master-Application       5 hrs 24 mins       █████████████████░░░░░░░░   67.34 % 
+riscv-scalar-core-templat1 hr 21 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.85 % 
+video                    36 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.59 % 
+HW1_Ch1                  19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.01 % 
+Linear-Algebra           9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.96 % 
 
 💻 Operating System: 
-Mac                      8 hrs 2 mins        █████████████████████░░░░   85.29 % 
-Linux                    1 hr 23 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.71 % 
+Mac                      8 hrs 2 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 7 hrs 13 mins (76.58%)
+⏱ AI Coding Time: 7 hrs 13 mins (89.78%)
 
-✍️ 6,116 lines written by AI, 90 lines written by hand (98.55% AI-written)
+✍️ 6,116 lines written by AI, 64 lines written by hand (98.96% AI-written)
 
 🔤 10,644,055 Input Tokens, 1,364,046 Output Tokens
 
@@ -71,10 +70,10 @@ Opus                     3,701 lines         ███████████�
 GPT                      2,595 lines         ██████████░░░░░░░░░░░░░░░   41.22 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 98.55% of written lines came from AI
+🤖 AI-Driven — 98.96% of written lines came from AI
 📄 Detailed Prompter — average 856 characters per prompt
 🔁 Iterative Prompter — average 6 prompts per session
-🚀 High AI Trust — 3.02% of changed lines were hand-edited
+🚀 High AI Trust — 1.53% of changed lines were hand-edited
 ```
 
 **I Mostly Code in C++** 
@@ -90,7 +89,7 @@ Vue                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 01/10/2026 03:36:30 UTC
+ Last Updated on 02/10/2026 03:37:27 UTC
 <!--END_SECTION:waka-->
 
 
