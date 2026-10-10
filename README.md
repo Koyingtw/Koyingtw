@@ -30,34 +30,34 @@ Sunday                   477 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Taipei
 
 💬 Programming Languages: 
-Other                    1 hr 56 mins        ████████░░░░░░░░░░░░░░░░░   31.68 % 
-Bash                     1 hr 44 mins        ███████░░░░░░░░░░░░░░░░░░   28.55 % 
-TeX                      1 hr 3 mins         ████░░░░░░░░░░░░░░░░░░░░░   17.30 % 
-Markdown                 53 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.48 % 
-Python                   12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.50 % 
+Bash                     1 hr 44 mins        ████████░░░░░░░░░░░░░░░░░   30.88 % 
+Other                    1 hr 28 mins        ███████░░░░░░░░░░░░░░░░░░   26.11 % 
+TeX                      1 hr 3 mins         █████░░░░░░░░░░░░░░░░░░░░   18.72 % 
+Markdown                 53 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.66 % 
+Python                   12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.79 % 
 
 🔥 Editors: 
-Bot                      2 hrs 14 mins       █████████░░░░░░░░░░░░░░░░   36.62 % 
-VS Code                  1 hr 37 mins        ███████░░░░░░░░░░░░░░░░░░   26.44 % 
-Opencode Cli             1 hr 14 mins        █████░░░░░░░░░░░░░░░░░░░░   20.26 % 
-Codex Vscode             1 hr 1 min          ████░░░░░░░░░░░░░░░░░░░░░   16.68 % 
+Bot                      1 hr 46 mins        ████████░░░░░░░░░░░░░░░░░   31.45 % 
+VS Code                  1 hr 37 mins        ███████░░░░░░░░░░░░░░░░░░   28.60 % 
+Opencode Cli             1 hr 14 mins        █████░░░░░░░░░░░░░░░░░░░░   21.91 % 
+Codex Vscode             1 hr 1 min          █████░░░░░░░░░░░░░░░░░░░░   18.04 % 
 
 🐱‍💻 Projects: 
-Master-Application       2 hrs 27 mins       ██████████░░░░░░░░░░░░░░░   40.24 % 
-litert-mcu-examples      1 hr 43 mins        ███████░░░░░░░░░░░░░░░░░░   28.14 % 
-Unknown Project          43 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.85 % 
-litert-demo              32 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.97 % 
-riscv-scalar-core-templat22 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.02 % 
+Master-Application       2 hrs               █████████░░░░░░░░░░░░░░░░   35.37 % 
+litert-mcu-examples      1 hr 43 mins        ████████░░░░░░░░░░░░░░░░░   30.43 % 
+Unknown Project          43 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.82 % 
+litert-demo              32 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.70 % 
+riscv-scalar-core-templat22 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.51 % 
 
 💻 Operating System: 
-Mac                      3 hrs 33 mins       ███████████████░░░░░░░░░░   58.11 % 
-Linux                    2 hrs 33 mins       ██████████░░░░░░░░░░░░░░░   41.89 % 
+Mac                      3 hrs 5 mins        ██████████████░░░░░░░░░░░   54.69 % 
+Linux                    2 hrs 33 mins       ███████████░░░░░░░░░░░░░░   45.31 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 5 hrs 24 mins (88.43%)
+⏱ AI Coding Time: 4 hrs 56 mins (87.48%)
 
 ✍️ 490 lines written by AI, 4 lines written by hand (99.19% AI-written)
 
@@ -65,14 +65,14 @@ Linux                    2 hrs 33 mins       ██████████░�
 
 💵 $10.44 Estimated AI Cost This Week
 
-🧠 40 AI Sessions, 79 AI Prompts
+🧠 37 AI Sessions, 66 AI Prompts
 
 GPT                      508 lines           █████████████████████████   100.00 % 
 Opencode-Cli             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 99.19% of written lines came from AI
-📄 Detailed Prompter — average 705 characters per prompt
+📄 Detailed Prompter — average 841 characters per prompt
 🔁 Iterative Prompter — average 2 prompts per session
 🚀 High AI Trust — 6.27% of changed lines were hand-edited
 ```
@@ -90,7 +90,7 @@ Vue                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 09/10/2026 04:07:03 UTC
+ Last Updated on 10/10/2026 03:52:28 UTC
 <!--END_SECTION:waka-->
 
 
