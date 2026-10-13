@@ -6,21 +6,21 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                425 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.98 % 
-🌆 Daytime                1101 commits        ██████████░░░░░░░░░░░░░░░   38.79 % 
-🌃 Evening                802 commits         ███████░░░░░░░░░░░░░░░░░░   28.26 % 
-🌙 Night                  510 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.97 % 
+🌞 Morning                425 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.83 % 
+🌆 Daytime                1109 commits        ██████████░░░░░░░░░░░░░░░   38.71 % 
+🌃 Evening                812 commits         ███████░░░░░░░░░░░░░░░░░░   28.34 % 
+🌙 Night                  519 commits         █████░░░░░░░░░░░░░░░░░░░░   18.12 % 
 ```
 📅 **I'm Most Productive on Saturday** 
 
 ```text
-Monday                   309 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.89 % 
-Tuesday                  335 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.80 % 
-Wednesday                301 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.61 % 
-Thursday                 261 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.20 % 
-Friday                   491 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.30 % 
-Saturday                 664 commits         ██████░░░░░░░░░░░░░░░░░░░   23.40 % 
-Sunday                   477 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.81 % 
+Monday                   314 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.96 % 
+Tuesday                  348 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.15 % 
+Wednesday                305 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.65 % 
+Thursday                 263 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.18 % 
+Friday                   491 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.14 % 
+Saturday                 664 commits         ██████░░░░░░░░░░░░░░░░░░░   23.18 % 
+Sunday                   480 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.75 % 
 ```
 
 
@@ -30,51 +30,51 @@ Sunday                   477 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Taipei
 
 💬 Programming Languages: 
-Bash                     1 hr 44 mins        █████████░░░░░░░░░░░░░░░░   37.08 % 
-TeX                      1 hr 3 mins         ██████░░░░░░░░░░░░░░░░░░░   22.47 % 
-Other                    53 mins             █████░░░░░░░░░░░░░░░░░░░░   19.09 % 
-Markdown                 31 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.99 % 
-Python                   12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.55 % 
+Bash                     1 hr 44 mins        ███████████░░░░░░░░░░░░░░   45.83 % 
+Other                    1 hr 18 mins        █████████░░░░░░░░░░░░░░░░   34.48 % 
+TeX                      22 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.77 % 
+Python                   12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.63 % 
+C++                      6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.88 % 
 
 🔥 Editors: 
-VS Code                  1 hr 37 mins        █████████░░░░░░░░░░░░░░░░   34.34 % 
-Opencode Cli             1 hr 14 mins        ███████░░░░░░░░░░░░░░░░░░   26.31 % 
-Bot                      1 hr 12 mins        ██████░░░░░░░░░░░░░░░░░░░   25.49 % 
-Codex Vscode             39 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.85 % 
+VS Code                  1 hr 24 mins        █████████░░░░░░░░░░░░░░░░   36.85 % 
+Bot                      1 hr 18 mins        █████████░░░░░░░░░░░░░░░░   34.48 % 
+Opencode Cli             47 mins             █████░░░░░░░░░░░░░░░░░░░░   20.62 % 
+Codex Vscode             18 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.05 % 
 
 🐱‍💻 Projects: 
-litert-mcu-examples      1 hr 43 mins        █████████░░░░░░░░░░░░░░░░   36.54 % 
-Master-Application       1 hr 25 mins        ████████░░░░░░░░░░░░░░░░░   30.20 % 
-Unknown Project          43 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.39 % 
-litert-demo              32 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.64 % 
-fsfm-bak                 9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.24 % 
+litert-mcu-examples      1 hr 15 mins        ████████░░░░░░░░░░░░░░░░░   32.98 % 
+riscv-scalar-core-templat43 mins             █████░░░░░░░░░░░░░░░░░░░░   19.05 % 
+Unknown Project          35 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.43 % 
+litert-demo              32 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.39 % 
+Master-Application       24 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.69 % 
 
 💻 Operating System: 
-Linux                    2 hrs 33 mins       ██████████████░░░░░░░░░░░   54.40 % 
-Mac                      2 hrs 8 mins        ███████████░░░░░░░░░░░░░░   45.60 % 
+Linux                    2 hrs 5 mins        ██████████████░░░░░░░░░░░   54.83 % 
+Mac                      1 hr 43 mins        ███████████░░░░░░░░░░░░░░   45.17 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 4 hrs (84.97%)
+⏱ AI Coding Time: 3 hrs 17 mins (86.18%)
 
-✍️ 213 lines written by AI, 4 lines written by hand (98.16% AI-written)
+✍️ 187 lines written by AI, 2 lines written by hand (98.94% AI-written)
 
-🔤 1,209,892 Input Tokens, 126,226 Output Tokens
+🔤 764,277 Input Tokens, 98,728 Output Tokens
 
-💵 $9.00 Estimated AI Cost This Week
+💵 $7.27 Estimated AI Cost This Week
 
-🧠 23 AI Sessions, 55 AI Prompts
+🧠 18 AI Sessions, 44 AI Prompts
 
-GPT                      231 lines           █████████████████████████   100.00 % 
+GPT                      205 lines           █████████████████████████   100.00 % 
 Opencode-Cli             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 98.16% of written lines came from AI
-📄 Detailed Prompter — average 956 characters per prompt
+🤖 AI-Driven — 98.94% of written lines came from AI
+📄 Detailed Prompter — average 1,112 characters per prompt
 🔁 Iterative Prompter — average 2 prompts per session
-🚀 High AI Trust — 12.83% of changed lines were hand-edited
+🚀 High AI Trust — 2.38% of changed lines were hand-edited
 ```
 
 **I Mostly Code in C++** 
@@ -90,7 +90,7 @@ Vue                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 12/10/2026 03:48:39 UTC
+ Last Updated on 13/10/2026 05:01:08 UTC
 <!--END_SECTION:waka-->
 
 
