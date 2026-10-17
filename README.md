@@ -30,35 +30,35 @@ Sunday                   480 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Taipei
 
 💬 Programming Languages: 
-Other                    2 hrs 6 mins        █████████████░░░░░░░░░░░░   50.38 % 
-Markdown                 36 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.39 % 
-C++                      21 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.62 % 
-Bash                     21 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.52 % 
-TeX                      18 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.21 % 
+Other                    1 hr 57 mins        ████████████░░░░░░░░░░░░░   48.56 % 
+Markdown                 36 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.92 % 
+C++                      21 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.93 % 
+Bash                     21 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.84 % 
+TeX                      18 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.48 % 
 
 🔥 Editors: 
-Bot                      1 hr 50 mins        ███████████░░░░░░░░░░░░░░   44.11 % 
-Opencode Cli             1 hr 18 mins        ████████░░░░░░░░░░░░░░░░░   31.28 % 
-Claude Code              29 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.84 % 
-VS Code                  28 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.53 % 
-Codex Vscode             3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.25 % 
+Bot                      1 hr 41 mins        ███████████░░░░░░░░░░░░░░   42.07 % 
+Opencode Cli             1 hr 18 mins        ████████░░░░░░░░░░░░░░░░░   32.42 % 
+Claude Code              29 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.27 % 
+VS Code                  28 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.95 % 
+Codex Vscode             3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.30 % 
 
 🐱‍💻 Projects: 
-riscv-scalar-core-templat1 hr 50 mins        ███████████░░░░░░░░░░░░░░   44.11 % 
-litert-mcu-examples      1 hr 33 mins        █████████░░░░░░░░░░░░░░░░   37.20 % 
-Linear-Algebra           17 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.98 % 
-solutions                9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.73 % 
-Master-Application       9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.65 % 
+riscv-scalar-core-templat1 hr 41 mins        ███████████░░░░░░░░░░░░░░   42.07 % 
+litert-mcu-examples      1 hr 33 mins        ██████████░░░░░░░░░░░░░░░   38.56 % 
+Linear-Algebra           17 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.24 % 
+solutions                9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.87 % 
+Master-Application       9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.79 % 
 
 💻 Operating System: 
-Mac                      2 hrs 29 mins       ███████████████░░░░░░░░░░   59.60 % 
-Linux                    1 hr 41 mins        ██████████░░░░░░░░░░░░░░░   40.40 % 
+Mac                      2 hrs 20 mins       ███████████████░░░░░░░░░░   58.12 % 
+Linux                    1 hr 41 mins        ██████████░░░░░░░░░░░░░░░   41.88 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 3 hrs 57 mins (94.31%)
+⏱ AI Coding Time: 3 hrs 48 mins (94.11%)
 
 ✍️ 2,011 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
@@ -66,7 +66,7 @@ Linux                    1 hr 41 mins        ██████████░�
 
 💵 $18.83 Estimated AI Cost This Week
 
-🧠 27 AI Sessions, 38 AI Prompts
+🧠 23 AI Sessions, 34 AI Prompts
 
 Sonnet                   1,802 lines         ██████████████████████░░░   88.99 % 
 GPT                      223 lines           ███░░░░░░░░░░░░░░░░░░░░░░   11.01 % 
@@ -74,7 +74,7 @@ Opencode-Cli             0 lines             ░░░░░░░░░░░�
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📝 Concise Prompter — average 243 characters per prompt
+📝 Concise Prompter — average 270 characters per prompt
 🎯 One-Shot Prompter — average 1 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
@@ -92,7 +92,7 @@ Vue                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 16/10/2026 02:43:17 UTC
+ Last Updated on 17/10/2026 02:35:54 UTC
 <!--END_SECTION:waka-->
 
 
