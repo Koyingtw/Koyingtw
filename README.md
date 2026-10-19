@@ -30,51 +30,51 @@ Sunday                   480 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Taipei
 
 💬 Programming Languages: 
-Other                    1 hr 32 mins        ███████████░░░░░░░░░░░░░░   42.59 % 
-Markdown                 36 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.65 % 
-C++                      21 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.97 % 
-Bash                     21 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.86 % 
-TeX                      18 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.34 % 
+Other                    1 hr 8 mins         ██████████░░░░░░░░░░░░░░░   41.96 % 
+Markdown                 25 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.69 % 
+C++                      21 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.24 % 
+Bash                     21 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.09 % 
+CMake                    17 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.91 % 
 
 🔥 Editors: 
-Opencode Cli             1 hr 18 mins        █████████░░░░░░░░░░░░░░░░   36.18 % 
-Bot                      1 hr 7 mins         ████████░░░░░░░░░░░░░░░░░   31.04 % 
-Claude Code              39 mins             ████░░░░░░░░░░░░░░░░░░░░░   18.00 % 
-VS Code                  28 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.33 % 
-Codex Vscode             3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.45 % 
+Opencode Cli             1 hr 18 mins        ████████████░░░░░░░░░░░░░   48.04 % 
+Bot                      43 mins             ███████░░░░░░░░░░░░░░░░░░   26.62 % 
+VS Code                  28 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.70 % 
+Claude Code              9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.71 % 
+Codex Vscode             3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.92 % 
 
 🐱‍💻 Projects: 
-litert-mcu-examples      1 hr 33 mins        ███████████░░░░░░░░░░░░░░   43.03 % 
-riscv-scalar-core-templat1 hr 7 mins         ████████░░░░░░░░░░░░░░░░░   31.04 % 
-Linear-Algebra           17 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.08 % 
-solutions                9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.31 % 
-video                    9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.30 % 
+litert-mcu-examples      1 hr 33 mins        ██████████████░░░░░░░░░░░   57.13 % 
+riscv-scalar-core-templat43 mins             ███████░░░░░░░░░░░░░░░░░░   26.62 % 
+video                    9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.71 % 
+Master-Application       9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.61 % 
+litert-mcu               7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.71 % 
 
 💻 Operating System: 
-Mac                      1 hr 55 mins        █████████████░░░░░░░░░░░░   53.26 % 
-Linux                    1 hr 41 mins        ████████████░░░░░░░░░░░░░   46.74 % 
+Linux                    1 hr 41 mins        ████████████████░░░░░░░░░   62.06 % 
+Mac                      1 hr 2 mins         █████████░░░░░░░░░░░░░░░░   37.94 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 3 hrs 22 mins (93.42%)
+⏱ AI Coding Time: 2 hrs 29 mins (91.27%)
 
-✍️ 2,011 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 210 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 2,892,598 Input Tokens, 292,242 Output Tokens
+🔤 2,626,800 Input Tokens, 190,503 Output Tokens
 
-💵 $18.99 Estimated AI Cost This Week
+💵 $15.22 Estimated AI Cost This Week
 
-🧠 18 AI Sessions, 31 AI Prompts
+🧠 12 AI Sessions, 27 AI Prompts
 
-Sonnet                   1,802 lines         ██████████████████████░░░   88.99 % 
-GPT                      223 lines           ███░░░░░░░░░░░░░░░░░░░░░░   11.01 % 
+GPT                      223 lines           █████████████████████████   100.00 % 
 Opencode-Cli             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Sonnet                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📝 Concise Prompter — average 297 characters per prompt
+📝 Concise Prompter — average 329 characters per prompt
 🔁 Iterative Prompter — average 2 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
@@ -92,7 +92,7 @@ Vue                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 18/10/2026 02:36:22 UTC
+ Last Updated on 19/10/2026 02:49:49 UTC
 <!--END_SECTION:waka-->
 
 
