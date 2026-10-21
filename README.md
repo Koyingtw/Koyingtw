@@ -30,52 +30,52 @@ Sunday                   480 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Taipei
 
 💬 Programming Languages: 
-Markdown                 58 mins             ██████████░░░░░░░░░░░░░░░   40.20 % 
-Other                    25 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.63 % 
-C++                      21 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.99 % 
-Bash                     21 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.75 % 
-CMake                    17 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.29 % 
+Other                    2 hrs 10 mins       ███████████████░░░░░░░░░░   61.84 % 
+Markdown                 39 mins             █████░░░░░░░░░░░░░░░░░░░░   18.88 % 
+Bash                     20 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.67 % 
+C++                      20 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.51 % 
+Linker Script            0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 % 
 
 🔥 Editors: 
-Opencode Cli             1 hr 26 mins        ███████████████░░░░░░░░░░   59.68 % 
-VS Code                  47 mins             ████████░░░░░░░░░░░░░░░░░   32.60 % 
-Claude Code              9 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.43 % 
-OpenCode                 1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.28 % 
+Bot                      1 hr 28 mins        ██████████░░░░░░░░░░░░░░░   41.88 % 
+Opencode Cli             1 hr 7 mins         ████████░░░░░░░░░░░░░░░░░   32.02 % 
+VS Code                  43 mins             █████░░░░░░░░░░░░░░░░░░░░   20.73 % 
+Claude Code              9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.42 % 
+OpenCode                 2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.96 % 
 
 🐱‍💻 Projects: 
-litert-mcu-examples      2 hrs 7 mins        ██████████████████████░░░   87.94 % 
-video                    9 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.43 % 
-litert-mcu               7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.40 % 
-kws-test-new             0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 % 
-fsfm-private             0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
+litert-mcu-examples      1 hr 54 mins        ██████████████░░░░░░░░░░░   54.01 % 
+Unknown Project          1 hr 27 mins        ██████████░░░░░░░░░░░░░░░   41.52 % 
+video                    9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.42 % 
+litert-mcu               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
 
 💻 Operating System: 
-Linux                    2 hrs 15 mins       ███████████████████████░░   93.57 % 
-Mac                      9 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.43 % 
+Linux                    1 hr 53 mins        █████████████░░░░░░░░░░░░   53.71 % 
+Mac                      1 hr 37 mins        ████████████░░░░░░░░░░░░░   46.29 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 2 hrs 16 mins (94.27%)
+⏱ AI Coding Time: 3 hrs 26 mins (97.68%)
 
-✍️ 375 lines written by AI, 1 lines written by hand (99.73% AI-written)
+✍️ 174 lines written by AI, 1 lines written by hand (99.43% AI-written)
 
-🔤 2,462,541 Input Tokens, 208,997 Output Tokens
+🔤 3,527,452 Input Tokens, 136,752 Output Tokens
 
-💵 $14.57 Estimated AI Cost This Week
+💵 $7.89 Estimated AI Cost This Week
 
-🧠 8 AI Sessions, 27 AI Prompts
+🧠 29 AI Sessions, 64 AI Prompts
 
-GPT                      392 lines           █████████████████████████   100.00 % 
+GPT                      178 lines           █████████████████████████   100.00 % 
 Opencode-Cli             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Sonnet                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.73% of written lines came from AI
-📝 Concise Prompter — average 344 characters per prompt
-🔁 Iterative Prompter — average 3 prompts per session
-🚀 High AI Trust — 0.25% of changed lines were hand-edited
+🤖 AI-Driven — 99.43% of written lines came from AI
+📝 Concise Prompter — average 148 characters per prompt
+🔁 Iterative Prompter — average 2 prompts per session
+🚀 High AI Trust — 0.56% of changed lines were hand-edited
 ```
 
 **I Mostly Code in C++** 
@@ -91,7 +91,7 @@ Vue                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 20/10/2026 03:02:18 UTC
+ Last Updated on 21/10/2026 02:57:00 UTC
 <!--END_SECTION:waka-->
 
 
