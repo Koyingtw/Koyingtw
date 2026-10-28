@@ -30,49 +30,49 @@ Sunday                   480 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Taipei
 
 💬 Programming Languages: 
-Other                    3 hrs 6 mins        ██████████████░░░░░░░░░░░   55.36 % 
-Markdown                 1 hr 21 mins        ██████░░░░░░░░░░░░░░░░░░░   24.11 % 
-Linker Script            53 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.88 % 
-C++                      15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.66 % 
+Other                    1 hr 26 mins        █████████░░░░░░░░░░░░░░░░   36.34 % 
+Markdown                 1 hr 21 mins        █████████░░░░░░░░░░░░░░░░   34.38 % 
+Linker Script            53 mins             ██████░░░░░░░░░░░░░░░░░░░   22.64 % 
+C++                      15 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.64 % 
 
 🔥 Editors: 
-Opencode Cli             2 hrs 4 mins        █████████░░░░░░░░░░░░░░░░   36.95 % 
-VS Code                  1 hr 27 mins        ██████░░░░░░░░░░░░░░░░░░░   25.90 % 
-Bot                      1 hr 1 min          █████░░░░░░░░░░░░░░░░░░░░   18.11 % 
-Claude Code              39 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.67 % 
-OpenCode                 22 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.57 % 
+Opencode Cli             1 hr 30 mins        ██████████░░░░░░░░░░░░░░░   38.44 % 
+VS Code                  1 hr 9 mins         ███████░░░░░░░░░░░░░░░░░░   29.18 % 
+Claude Code              39 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.65 % 
+OpenCode                 22 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.37 % 
+Bot                      15 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.37 % 
 
 🐱‍💻 Projects: 
-litert-mcu-examples      3 hrs 32 mins       ████████████████░░░░░░░░░   62.91 % 
-riscv-scalar-core-templat1 hr 1 min          █████░░░░░░░░░░░░░░░░░░░░   18.11 % 
-experiments              30 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.06 % 
-litert-mcu               14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.39 % 
-fsfm-private             6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.81 % 
+litert-mcu-examples      2 hrs 41 mins       █████████████████░░░░░░░░   68.24 % 
+experiments              30 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.92 % 
+riscv-scalar-core-templat15 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.37 % 
+litert-mcu               14 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.26 % 
+skl                      5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.49 % 
 
 💻 Operating System: 
-Linux                    3 hrs 54 mins       █████████████████░░░░░░░░   69.37 % 
-Mac                      1 hr 43 mins        ████████░░░░░░░░░░░░░░░░░   30.63 % 
+Linux                    3 hrs 2 mins        ███████████████████░░░░░░   76.92 % 
+Mac                      54 mins             ██████░░░░░░░░░░░░░░░░░░░   23.08 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 5 hrs 30 mins (98.06%)
+⏱ AI Coding Time: 3 hrs 50 mins (97.24%)
 
 ✍️ 182 lines written by AI, 1 lines written by hand (99.45% AI-written)
 
-🔤 10,848,267 Input Tokens, 265,348 Output Tokens
+🔤 8,250,051 Input Tokens, 216,971 Output Tokens
 
-💵 $11.65 Estimated AI Cost This Week
+💵 $10.56 Estimated AI Cost This Week
 
-🧠 25 AI Sessions, 43 AI Prompts
+🧠 16 AI Sessions, 34 AI Prompts
 
 GPT                      244 lines           █████████████████████████   100.00 % 
 Opus                     0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 99.45% of written lines came from AI
-📝 Concise Prompter — average 61 characters per prompt
+📝 Concise Prompter — average 52 characters per prompt
 🔁 Iterative Prompter — average 2 prompts per session
 🚀 High AI Trust — 0.81% of changed lines were hand-edited
 ```
@@ -90,7 +90,7 @@ Vue                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 27/10/2026 03:20:01 UTC
+ Last Updated on 28/10/2026 03:34:27 UTC
 <!--END_SECTION:waka-->
 
 
